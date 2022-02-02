@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "name": "MD ALTAF RAJA",
+      "username": "altafreza_",
+      "email": "altafbgs55@gmail.com",
+      "phone": "9122538646",
+      "website": "www.abcd.com",
+      "id": 1
+    },
+    {
+      "name": "Ashis panday",
+      "username": "ashish",
+      "email": "ashis@gmail.com",
+      "phone": "8898887677",
+      "website": "https://www.npmjs.com/package/json-server",
+      "id": 2
+    },
+    {
+      "name": "anchala rajput",
+      "username": "anchala",
+      "email": "anchal@gmail.com",
+      "phone": "8987678796",
+      "website": ",jkjdfhdlf.com",
+      "id": 3
+    },
+    {
+      "name": "Rahul kumar",
+      "username": "rahulll",
+      "email": "rahul@gmail.com",
+      "phone": "8739877798",
+      "website": "khhfgdhf.com",
+      "id": 4
+    },
+    {
+      "name": "Minakkshi vishwakarma",
+      "username": "minakshi",
+      "email": "minakshi@gmai.com",
+      "phone": "9888889333",
+      "website": "hfhsfhhf.com",
+      "id": 5
+    },
+    {
+      "name": "Sonu kumar",
+      "username": "sonu",
+      "email": "sonu@hotmail.com",
+      "phone": "9999999999",
+      "website": "sghgadg.com",
+      "id": 6
+    },
+    {
+      "name": "navi alam",
+      "username": "nabi",
+      "email": "nabi@gmail.com",
+      "phone": "79644678995",
+      "website": "www.jfjddj.com",
+      "id": 7
+    },
+    {
+      "name": "neha kumari",
+      "username": "neha",
+      "email": "knsdhf@gmail.com",
+      "phone": "5667878776",
+      "website": "hyuyuyu.com",
+      "id": 8
+    }
+  ]
+}
